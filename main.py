@@ -176,8 +176,8 @@ def chat():
             f1.seek(0)
             f2.seek(0)
             print("")
-            print("Cum Slut Bot: ")
-            print("I'm a dumb twat and I don't understand. Try again")
-            speak("I'm a dumb twat and I don't understand. Try again")
+            print("Wefel Bot: ")
+            print("I don't understand. Try again")
+            speak("I don't understand. Try again")
 
 chat()
