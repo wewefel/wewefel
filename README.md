@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Wallace Wefel
-- 👀 I’m interested in Python/Machine Learning
-- 🌱 I’m currently learning Machine Learning and Neural Computation at UC San Diego
-- 📫 How to reach me ... wewefel@ucsd.edu
+UCSD: Machine Learning and Neural Computation 2024
 
 <!---
 wewefel/wewefel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
