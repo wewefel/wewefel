@@ -1,4 +1,4 @@
-UCSD: Machine Learning and Neural Computation 2024 (except neural comp is kinda boring lol)
+UCSD: Machine Learning and Neural Computation 2024
 
 <!---
 wewefel/wewefel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
